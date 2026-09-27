@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+student_resource/dataset/
+student_resource/output/
+*.joblib
+*.tsv
+.idea/
+.vscode/
